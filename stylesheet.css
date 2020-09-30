@@ -1,0 +1,184 @@
+
+div#content {overflow:auto;} 
+
+header,footer,nav{display:block;}
+
+html {
+  overflow-y: scroll;
+  margin-bottom:30px; margin-top:60px;
+  
+}
+body#pl a#pl-,
+body#cv a#cv-,
+body#contact a#contact- {background:#8c8ddd;border:2px solid #6b31f3;}
+
+.gradient 
+{
+  background: -webkit-gradient(linear, left top, left bottom,     color-stop(0.0, #FFFFFF), color-stop(0.60, #7955da), color-stop(1.00, #FFFFFF)); 
+  background: -moz-linear-gradient(top,  #FFFFFF 0%,  #7955da 60%, #FFFFFF 100%);
+  background-image: linear-gradient(top,  #FFFFFF 0%,  #7955da 60%, #FFFFFF 100%);
+  background-image:-webkit-linear-gradient(top,  #FFFFFF 0%,  #7955da 60%, #FFFFFF 100%);
+  background-image: -ms-linear-gradient(top,  #FFFFFF 0%,  #7955da 60%, #FFFFFF 100%);
+  background-image:-o-linear-gradient(top,  #FFFFFF 0%,  #7955da 60%, #FFFFFF 100%);
+  background-image:-moz-linear-gradient(top,  #FFFFFF 0%,  #7955da 60%, #FFFFFF 100%);
+}  
+ 
+nav.navmenu {
+    display: block;
+    padding: 0.5em 2em 0.5em 2em;   
+    border-radius: 20px;
+}
+nav.navmenu a {
+    padding: 0.3em 3em 0 5em;
+    color: #FFFFFF;
+    font-family: Tahoma, Geneva, sans-serif;
+    text-decoration:none;
+    font-style: italic;
+}
+nav.navmenu a:link    { color: #111111; background: #999999; border-radius: 20px;}
+nav.navmenu a:visited { color: #111111; background: #999999; border-radius: 20px;}
+nav.navmenu a:hover   { color: #111111; background: #999999; border-radius: 20px;}
+nav.navmenu a:active  { color: #111111; background: #999999; border-radius: 20px;}
+
+.stad
+{
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #FFFFFF), color-stop(0.60, #7955da), color-stop(1.00, #FFFFFF)); 
+  background: -moz-linear-gradient(top,  #FFFFFF 0%,  #7955da 60%, #FFFFFF 100%);
+  padding: 0.7em 1em 0.7em 1em;
+  border: 3px solid #FFFFFF;
+  border-radius: 2px;
+  margin-right:350px;
+  margin-left: 350px;
+  margin-bottom:30px;
+  border-radius: 20px;
+  text-align: center; 
+  color: #FFFFFF; 
+}
+
+
+
+.stad:link  { color: #111111; background: #999999; border-radius: 20px;}  
+
+.stad:visited { color: #111111; background: #999999; border-radius: 20px;}
+
+.stad:hover  { color: #111111; background: #999999; border-radius: 20px;} 
+
+.stad:active  { color: #111111; background: #999999; border-radius: 20px;}
+
+
+
+
+ul {
+  list-style-type: none;
+}
+
+hr.line{color:#555555;}
+
+.nr2{margin-bottom:20px; margin-top:20px;}
+
+h1 {
+  font-family: 'italic', serif;
+  font-size: 60px;
+  padding-top:100px;
+  padding-left:50px;
+  padding-bottom:150px;
+  text-align:center;
+}
+.start
+{
+  font-family: 'italic', serif;
+}
+p{font-family: 'italic', serif;}
+#bild
+{ 
+  
+  
+  position: relative;
+  top: 20px;
+  left: 60px;
+  border-radius: 50px;
+ 
+}
+
+html 
+{
+  background: -webkit-gradient(linear, left top, left bottom,     color-stop(0.0, #FFFFFF), color-stop(0.60, #7955da), color-stop(1.00, #FFFFFF)); 
+  background: -moz-linear-gradient(top,  #FFFFFF 0%,  #7955da 60%, #FFFFFF 100%);
+}
+
+body 
+{
+  margin: 8px auto;
+  width: 934px;
+  padding-top:10px ;
+  padding-bottom:10px;
+  padding-right:10px;
+  padding-left:10px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  font-family: Georgia, serif;
+  color: #e79f9f;
+  height:auto;
+  border-radius: 25px;
+}
+
+
+
+p.text
+{
+width:934px;
+margin:0px;
+padding: 0px; border: 0px solid red;
+position:relative;
+ top:00px;
+left:00px;
+}
+
+div#margin
+{
+  margin-bottom:30px; margin-top:30px;
+}
+div#footer a
+{	
+  font: italic 0.8em Arial, Helvetica, sans-serif;
+  text-decoration:none;
+  color: #999999;
+  position:relative;
+  top:00px;
+  left:000px;  
+}
+div#footer a:link    { text-decoration:underline;  color: #333333;}
+div#footer a:visited { text-decoration:underline;  color: #333333;}
+div#footer a:hover   { text-decoration:underline;  color: #333333;}
+div#footer a:active  { text-decoration:underline;  color: #333333;}
+
+
+
+
+#rub
+{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#but
+{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  border-radius: 20px;
+  background: -webkit-gradient(linear, left top, left bottom,     color-stop(0.0, #FFFFFF), color-stop(0.60, #b2cfc9), color-stop(1.00, #FFFFFF)); 
+  background: -moz-linear-gradient(top,  #FFFFFF 0%, #b2cfc9 60%, #FFFFFF 100%);
+  margin-left: 250px;
+  margin-right: 250px;
+  color: #FFFFFF;
+}
+
+#but:link    { color: #111111; background:  rgb(221, 231, 235); border-radius: 20px;}
+#but:visited { color: #111111; background: rgb(221, 231, 235); border-radius: 20px;}
+#but:hover   { color: #111111; background:  rgb(221, 231, 235); border-radius: 20px;}
+#but:active  { color: #111111; background: rgb(221, 231, 235); border-radius: 20px;}
+
+
