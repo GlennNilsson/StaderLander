@@ -166,7 +166,7 @@ function getvisitedCities()
 {
   var population = 0;
   document.getElementById("container").innerHTML = "" +
-  "<h2 id='rub' class='font-effect-shadow-multiple start'>Visited Cities</h2>";
+  "<h2 id='rub' class='font-effect-shadow-multiple start'>Besökta städer</h2>";
   div.innerHTML += "<ul id='ul'></ul>";
   
   document.getElementById("container2").innerHTML = "";
