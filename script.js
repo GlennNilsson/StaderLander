@@ -23,7 +23,7 @@ document.getElementById("footer").innerHTML = "" +
   "<hr></hr>" +
   "<p>Länkar:" +
   "<a href='https://github.com/GlennNilsson/StaderLander'>Glenns GitHub</a>" + 
-  "    <a href='https://glennnilsson.github.io/StaderLander/.' >Glenns Städer Länder</a>" +
+  "    <a href='https://glennnilsson.github.io/StaderLander/index.html' >Glenns Städer Länder</a>" +
   "</p>" +
 "</div>" +
 "</div>"
